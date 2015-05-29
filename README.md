@@ -39,10 +39,10 @@ Know issues
 
 Specs
 -----------------------
-Wrapping: Boost Python
-Python Version: 2.6x64, 2.7x64
-CUDA: 5.5
-Maya Versions: 2012, 2013, 2013.5, 2014
+* Wrapping: Boost Python
+* Python Version: 2.6x64, 2.7x64
+* CUDA: 5.5
+* Maya Versions: 2012, 2013, 2013.5, 2014
 
 
 -----------------------
