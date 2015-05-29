@@ -1,0 +1,18 @@
+
+# Ignore
+x64
+Win32
+Debug
+*.sln
+*.suo
+*.sdf
+*.log
+*.htm
+*.db
+*.pyc
+
+#un-ignore
+parallel_party/*
+!parallel_party/*.h
+!parallel_party/*.cpp
+!parallel_party/*.cu
